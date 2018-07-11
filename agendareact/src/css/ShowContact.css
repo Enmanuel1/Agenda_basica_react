@@ -1,0 +1,25 @@
+.content{
+    width: 100%;
+}
+.tarjeta-contactos{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+.nombre{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.apellido{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+.tarjeta-contactos:hover{
+    background: #e4e4e4;
+}
